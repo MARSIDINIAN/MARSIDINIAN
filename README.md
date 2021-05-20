@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MARSIDINIAN the endless artist of the unfinishable
+- 👋 Hi, I’m @MARSIDINIAN 
 - 👀 I’m interested in learning code
 - 🌱 I’m currently learning processing
 - 💞️ I’m looking to collaborate on glitch, data moshing and pixel sorting
